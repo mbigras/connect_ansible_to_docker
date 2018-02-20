@@ -1,0 +1,1 @@
+somecontainer ansible_connection=docker
